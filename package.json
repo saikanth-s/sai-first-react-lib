@@ -1,6 +1,6 @@
 {
   "name": "@saikanth-s/sai-first-react-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My first react library",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
